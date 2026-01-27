@@ -1,0 +1,1 @@
+const frutas= ['sandia', 'banano', 'mango', 'fresas', '']
